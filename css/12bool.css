@@ -71,6 +71,12 @@
     max-width: calc((100% / 12) * 12);
 }
 
+.col {
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+}
+
 .offset-1 {
     flex-basis: calc((100% / 12) * 1);
     max-width: calc((100% / 12) * 1);
