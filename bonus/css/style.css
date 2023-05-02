@@ -1,5 +1,5 @@
 main {
-    background-color: skyblue;
+    background-color: goldenrod;
 }
 
 [class^='col'] {
@@ -24,6 +24,14 @@ main {
 
 .skin {
     background-color: #fcd5b4;
+}
+
+.blue {
+    background-color: #0071c1;
+}
+
+.brown {
+    background-color: #974806;
 }
 
 .container {
