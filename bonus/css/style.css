@@ -1,3 +1,31 @@
+main {
+    background-color: skyblue;
+}
+
 [class^='col'] {
-    padding: 1rem 0;
+    padding: 1rem;
+}
+
+.pad-0 {
+    padding: 0;
+}
+
+.black {
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
+
+.white {
+    background-color: white;
+}
+
+.skin {
+    background-color: #fcd5b4;
+}
+
+.container {
+    padding: 10rem;
 }
