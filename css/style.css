@@ -5,3 +5,8 @@
     padding: 1rem;
     text-align: center;
 }
+
+.col > .row > [class^='col'] {
+    background-color: #01e165;
+    border: 1px solid #006cfa;
+}
